@@ -1,0 +1,6 @@
+#include<studio.h>
+intmain()
+{
+print"hellow";
+return 0;
+}
